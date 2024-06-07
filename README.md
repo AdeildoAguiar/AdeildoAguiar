@@ -25,7 +25,7 @@ Além disso, tenho facilidade para aprender novas tecnologias e estou sempre em 
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato!
 
-[![LinkedIn](https://img.shields.io/badge/GitHub-Connect-black)](https://github.com/AdeildoAguia)
+[![GitHub](https://img.shields.io/badge/GitHub-Connect-black)](https://github.com/AdeildoAguia)
 
 
 

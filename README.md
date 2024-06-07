@@ -1,6 +1,6 @@
 # Adeildo Aguiar
 
-Olá! Eu sou Adeildo Aguiar, um entusiasta de tecnologia com 19 anos, formado como Técnico em Desenvolvimento de Sistemas pela ETE Advogado José Gil Rodrigues. Atualmente, estou cursando Engenharia de Software Comercial com Ênfase em Projeto e Arquitetura.
+Olá! Eu sou Adeildo Aguiar, um entusiasta de tecnologia com 19 anos, formado como Técnico em Desenvolvimento de Sistemas pela ETE Advogado José David Gil Rodrigues. Atualmente, estou cursando Engenharia de Software Comercial com Ênfase em Projeto e Arquitetura.
 
 ## Tecnologias Conhecidas
 
